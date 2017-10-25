@@ -46,7 +46,7 @@
     "colorprint": "^2.1.0",
     "commander": "^2.9.0",
     "dgeni": "^0.4.1",
-    "dgeni-markdown": "git://mohammed-softordi@github.com/dgeni-markdown.git#v0.0.6",
+    "dgeni-markdown": "ghttps://github.com/mohammed-softordi/dgeni-markdown/tarball/master",
     "dgeni-packages": "^0.11.1"
   }
 }
